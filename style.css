@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    background: #222222;
+    font-family: sans-serif;
+    color: white;
+}
+
+a{
+    color: red
+}
+a:visited{
+    color: purple
+}
+
+#main-container{
+    width: 900px;
+    margin: 12rem auto auto auto;
+    background-color: black;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+.underlined{
+    text-decoration: underline;
+    color: gray;
+}
+.heading{
+    text-transform: uppercase;
+}
